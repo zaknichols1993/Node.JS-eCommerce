@@ -6,7 +6,7 @@ If you'd like to check out a live version here it is:
 
 https://shop-pclrpwtvan.now.sh/
 
-NOTE: The focus is on the server side code regarding it's dynamic content. I put little effort into the UI/UX.
+NOTE: It may take a minute to load. I'm using NOW by zeit's free service to host this node application. Also, the focus is on the server side code regarding it's dynamic content. I put little effort into the UI/UX.
 
 ## Getting Started
 
