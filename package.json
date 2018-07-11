@@ -1,0 +1,18 @@
+{
+  "name": "Shop",
+  "version": "1.0.0",
+  "description": "shop to sell hats",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Zak Nichols",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "nodemailer": "^4.4.1",
+    "stripe": "^5.1.1"
+  }
+}
