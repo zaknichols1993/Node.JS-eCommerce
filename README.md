@@ -6,6 +6,8 @@ If you'd like to check out a live version here it is:
 
 https://shop-pclrpwtvan.now.sh/
 
+NOTE: The focus is on the server side code regarding it's dynamic content. I put little effort into the UI/UX.
+
 ## Getting Started
 
 Clone the repository.
